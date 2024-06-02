@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color:  #a9d5f1;
+}
+h1 {
+  font-size: 100px;
+  background-color:  #14354a;
+  color:  #f1f9ff;
+}
+p, ul {
+  font-family: "Arial";
+}
